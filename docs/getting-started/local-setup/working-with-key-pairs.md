@@ -6,7 +6,7 @@ id: working-with-key-pairs
 
 ## Overview
 
-In this tutorial, you will learn how to manage private user keys, which are required for interacting with the Gno.land
+In this tutorial, you will learn how to manage private user keys, which are required for interacting with the gno.land
 blockchain. You will understand what mnemonics are, how they are used, and how you can make interaction seamless with
 Gno.
 
@@ -79,7 +79,7 @@ The key response consists of a few pieces of information:
 - The derived address (`addr`)
 - The public key (`pub`)
 
-Using these pieces of information, we can interact with Gno.land tools and write blockchain applications.
+Using these pieces of information, we can interact with gno.land tools and write blockchain applications.
 
 ## Generating a BIP39 mnemonic
 

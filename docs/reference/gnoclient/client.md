@@ -81,7 +81,7 @@ func (c *Client) QueryAccount(addr crypto.Address) (*std.BaseAccount, *ctypes.Re
 func (c *Client) QueryAppVersion() (string, *ctypes.ResultABCIQuery, error)
 ```
 
-`QueryAppVersion` retrieves information about the Gno.land app version.
+`QueryAppVersion` retrieves information about the gno.land app version.
 
 ### func \(*Client\) [Render](<https://github.com/gnolang/gno/blob/master/gno.land/pkg/gnoclient/client_queries.go#L85>)
 

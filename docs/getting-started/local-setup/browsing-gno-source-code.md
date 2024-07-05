@@ -46,7 +46,7 @@ We should be able to access the website locally on http://127.0.0.1:8888/.
 
 ## 3. Browse Package source code
 
-Packages in Gno.land usually have names resembling `gno.land/p/<name>`. Since packages do not contain state, we can only
+Packages in gno.land usually have names resembling `gno.land/p/<name>`. Since packages do not contain state, we can only
 view their source code on-chain. To learn more about Packages, please check out
 the [Packages](../../concepts/packages.md) explanation document.
 
@@ -64,7 +64,7 @@ From here, we can open any source code file of the deployed on-chain package and
 
 ## 4. Browse Realm source code
 
-In contrast to Packages, Realms in Gno.land usually have names resembling `gno.land/r/<name>`.
+In contrast to Packages, Realms in gno.land usually have names resembling `gno.land/r/<name>`.
 
 Realms _do_ contain state, and in addition to being able to view their source code on-chain, users can also view their
 internal state representation in the form of the `Render()` output. To learn more about Realms, please

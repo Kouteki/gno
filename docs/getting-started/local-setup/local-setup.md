@@ -25,7 +25,7 @@ export PATH=$GOPATH/bin:$PATH
 
 ## 1. Cloning the repository
 
-To get started with a local Gno.land development environment, you must clone the GitHub repository
+To get started with a local gno.land development environment, you must clone the GitHub repository
 somewhere on disk:
 
 ```bash

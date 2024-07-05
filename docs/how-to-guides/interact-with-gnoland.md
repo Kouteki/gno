@@ -2,7 +2,7 @@
 id: interact-with-gnoland
 ---
 
-# Interact with Gno.land
+# Interact with gno.land
 
 This tutorial will teach you how to interact with the gno.land blockchain by creating an account and calling various realms to send transactions on the network.
 

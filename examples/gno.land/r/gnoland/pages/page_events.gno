@@ -4,9 +4,9 @@ func init() {
 	var (
 		path  = "events"
 		title = "Gno.land Core Team Attends Industry Events & Meetups"
-		// XXX: description = "If you’re interested in learning more about Gno.land, you can join us at major blockchain industry events throughout the year either in person or virtually."
+		// XXX: description = "If you’re interested in learning more about gno.land, you can join us at major blockchain industry events throughout the year either in person or virtually."
 		body = `
-If you’re interested in building web3 with us, catch up with Gno.land in person at one of our industry events.
+If you’re interested in building web3 with us, catch up with gno.land in person at one of our industry events.
 We’re looking to connect with developers and like-minded thinkers who can contribute to the growth of our platform.
 
 ---
